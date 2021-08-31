@@ -1,207 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
 <fdroid>
-	<repo icon="default-repo-icon.png" name="کاردرمانی۶" pubkey="30820503308202eba00302010202047bb077ab300d06092a864886f70d01010b050030323110300e060355040b1307462d44726f6964311e301c060355040313157265706f6d616b65722e662d64726f69642e6f7267301e170d3231303833303139333334335a170d3439303131353139333334335a30323110300e060355040b1307462d44726f6964311e301c060355040313157265706f6d616b65722e662d64726f69642e6f726730820222300d06092a864886f70d01010105000382020f003082020a02820201009f185860304e7a9034d3f53b6013acd9cf952dbbf504e2ffaf55bce75144e111b75b9cd994d8df43493df83a67f4668a8a84de994a25e87387bac3a22235a2d349af07ea2dc2a655a6d74b17865701d685bcc174b27a8df6691ad29d9dab79810ffb921b11249470b896f528a319c63dab5df5cbc9f89721fc70d5d8e6c9277456f7df39f28e79db0a505ce0a03904c0bfce561cecb5d75e29c6c16a27503eb9f477b8599bfc66c08b51f3a0811f9461f4b9225bc314bbbbea7206da21b9035ca34a7770c3a3c978335c505d13448caab366d91f1a9f8678992238f725edd63a1cd0548130b59455457b95525da274d57ddfec256d15f368edd384931576844d1b1daaafbe23326b1aa26d4db2dc894776cf8f7594640010e0107b19a3946425cd9ee69c631556bfb1104754bbd66c363a2103442d233b4f4126994b4981ff2964fa638323f5edc763045d0429fb773bbbec2f66b7b62cb3e40f9f9318e9af5ee34abe6cca4563528fa7071502025b8aba3ae50959cb31b6b0fc1832e564eb7325b76ce0251a92a85e748be6c280a057bbeae41880cb4b9d3ed9c6b8caf7d6863a6b40249720a25a1f43ece97dc9f63a574f738d558197c23507008e27ec87045a27630808069d5734b750f8f4b4981e3c9700390b6b1516ed24befef2af5f6aed1b24106b9e3ecbb09968d4cbb3b2556a23c06c211d1c0ba57ce64a1019946f0203010001a321301f301d0603551d0e041604144278f08436a080fcfad67648a2b41513f1231cd9300d06092a864886f70d01010b050003820201006f95062024e5023be4c0a1e22114c510b7066b38d3e6ec6046041d6668e4b6fb076b3cadb9406315b062a9c8c78a3fa2a1f2e8e32322bae39348c8d6fe81310ff97b4d93efe8382f33ab3eb1e91959c9efc5a5deeda49d7f7161178e2052ff3df3efc89df1ff63c391b373a803bb74400f3835e82c958cd0c1dd71b441d071b2422bd80b81400111897f755b1501e8d183e5164a4926cae9e3f68cd78bb26e3c7eecad89869070da7cb489f74b53bd68159ad2fbace245dbf9322a454ce90df57c3ef9d944ec268b76877b4f18538789f26b99a9e56cde565da3aa864adafee9542779e974843dfd798307b567d84ca48ffb62863e0d9f14ff0e72abf21fd5a3efbc657dab725030134d8b608994da2dd9d4b9a20d3f6e285ba8c625f33158cc0686d7d6082603e4adc5abec2876a24c38d85a548d15afffe05fff352915a963200d52346b0e7888dfec5836944db91771a2eeb9020ee06c1d14c653d73f8ac8326781f94fa38c440f975ac23e4784537b6ddce40c6d2281ce2aedd79a46edf0da4ef6bb733a6c87c660d89302d3f258a9e8d41314178f61af9d5136d0d0c41e0267b5d0fa48ea3b63b918b8704438f9a1ee5417743064c9ba0a7f12162255f2204677c340821319dfb4e90d95e983b17f525f3374094981f3254b0a191956e77029923fbb5f8dac03e0fc6ddf85f7234ca040ff4c25ad130f745e053ecc3b3f" timestamp="1630433857" url="https://github.com/hbsciw/repo6/raw/master/fdroid/repo" version="21">
+	<repo icon="default-repo-icon.png" name="کاردرمانی۶" pubkey="30820503308202eba00302010202047bb077ab300d06092a864886f70d01010b050030323110300e060355040b1307462d44726f6964311e301c060355040313157265706f6d616b65722e662d64726f69642e6f7267301e170d3231303833303139333334335a170d3439303131353139333334335a30323110300e060355040b1307462d44726f6964311e301c060355040313157265706f6d616b65722e662d64726f69642e6f726730820222300d06092a864886f70d01010105000382020f003082020a02820201009f185860304e7a9034d3f53b6013acd9cf952dbbf504e2ffaf55bce75144e111b75b9cd994d8df43493df83a67f4668a8a84de994a25e87387bac3a22235a2d349af07ea2dc2a655a6d74b17865701d685bcc174b27a8df6691ad29d9dab79810ffb921b11249470b896f528a319c63dab5df5cbc9f89721fc70d5d8e6c9277456f7df39f28e79db0a505ce0a03904c0bfce561cecb5d75e29c6c16a27503eb9f477b8599bfc66c08b51f3a0811f9461f4b9225bc314bbbbea7206da21b9035ca34a7770c3a3c978335c505d13448caab366d91f1a9f8678992238f725edd63a1cd0548130b59455457b95525da274d57ddfec256d15f368edd384931576844d1b1daaafbe23326b1aa26d4db2dc894776cf8f7594640010e0107b19a3946425cd9ee69c631556bfb1104754bbd66c363a2103442d233b4f4126994b4981ff2964fa638323f5edc763045d0429fb773bbbec2f66b7b62cb3e40f9f9318e9af5ee34abe6cca4563528fa7071502025b8aba3ae50959cb31b6b0fc1832e564eb7325b76ce0251a92a85e748be6c280a057bbeae41880cb4b9d3ed9c6b8caf7d6863a6b40249720a25a1f43ece97dc9f63a574f738d558197c23507008e27ec87045a27630808069d5734b750f8f4b4981e3c9700390b6b1516ed24befef2af5f6aed1b24106b9e3ecbb09968d4cbb3b2556a23c06c211d1c0ba57ce64a1019946f0203010001a321301f301d0603551d0e041604144278f08436a080fcfad67648a2b41513f1231cd9300d06092a864886f70d01010b050003820201006f95062024e5023be4c0a1e22114c510b7066b38d3e6ec6046041d6668e4b6fb076b3cadb9406315b062a9c8c78a3fa2a1f2e8e32322bae39348c8d6fe81310ff97b4d93efe8382f33ab3eb1e91959c9efc5a5deeda49d7f7161178e2052ff3df3efc89df1ff63c391b373a803bb74400f3835e82c958cd0c1dd71b441d071b2422bd80b81400111897f755b1501e8d183e5164a4926cae9e3f68cd78bb26e3c7eecad89869070da7cb489f74b53bd68159ad2fbace245dbf9322a454ce90df57c3ef9d944ec268b76877b4f18538789f26b99a9e56cde565da3aa864adafee9542779e974843dfd798307b567d84ca48ffb62863e0d9f14ff0e72abf21fd5a3efbc657dab725030134d8b608994da2dd9d4b9a20d3f6e285ba8c625f33158cc0686d7d6082603e4adc5abec2876a24c38d85a548d15afffe05fff352915a963200d52346b0e7888dfec5836944db91771a2eeb9020ee06c1d14c653d73f8ac8326781f94fa38c440f975ac23e4784537b6ddce40c6d2281ce2aedd79a46edf0da4ef6bb733a6c87c660d89302d3f258a9e8d41314178f61af9d5136d0d0c41e0267b5d0fa48ea3b63b918b8704438f9a1ee5417743064c9ba0a7f12162255f2204677c340821319dfb4e90d95e983b17f525f3374094981f3254b0a191956e77029923fbb5f8dac03e0fc6ddf85f7234ca040ff4c25ad130f745e053ecc3b3f" timestamp="1630435225" url="https://github.com/hbsciw/repo6/raw/master/fdroid/repo" version="21">
 		<description>کاردرمانی۶</description>
 		<mirror>https://github.com/hbsciw/repo6/raw/master/fdroid/repo/repo</mirror>
 	</repo>
-	<application id="color.hoop.stack.sort.puzzle">
-		<id>color.hoop.stack.sort.puzzle</id>
-		<added>2021-08-30</added>
+	<application id="com.puzzle.rings">
+		<id>com.puzzle.rings</id>
+		<added>2021-08-31</added>
 		<lastupdated>2021-08-31</lastupdated>
-		<name>Color Hoop Stack</name>
-		<summary></summary>
-		<icon>color.hoop.stack.sort.puzzle.17.png</icon>
-		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
+		<name>Color Rings Puzzle</name>
+		<summary>شناخت رنگ،شناخت مفهوم هم رنگی،بهبود توجه ،تقویت مهارت problem solving</summary>
+		<icon>com.puzzle.rings.98.png</icon>
+		<desc>شناخت رنگ،شناخت مفهوم هم رنگی،بهبود توجه ،تقویت مهارت problem solving</desc>
 		<license>Unknown</license>
 		<web></web>
 		<source></source>
 		<tracker></tracker>
 		<marketversion></marketversion>
-		<marketvercode>17</marketvercode>
+		<marketvercode>98</marketvercode>
 		<package>
-			<version>1.1.4</version>
-			<versioncode>17</versioncode>
-			<apkname>color.hoop.stack.sort.puzzle_17_apps.evozi.com.apk</apkname>
-			<hash type="sha256">64196ad9b4d621faeaa39c810d2bb95aaa86b7706287285aebb406015f01bbb4</hash>
-			<size>29941894</size>
-			<sdkver>19</sdkver>
-			<targetSdkVersion>29</targetSdkVersion>
-			<added>2021-08-31</added>
-			<sig>81f29e09f36e3f07eff804d4eb3ccc6d</sig>
-			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,CHANGE_WIFI_MULTICAST_STATE,INTERNET,RECEIVE_BOOT_COMPLETED,VIBRATE,WAKE_LOCK,com.android.vending.BILLING,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE</permissions>
-			<nativecode>arm64-v8a</nativecode>
-		</package>
-	</application>
-	<application id="com.rvappstudios.kids.coloring.book.color.painting">
-		<id>com.rvappstudios.kids.coloring.book.color.painting</id>
-		<added>2021-08-30</added>
-		<lastupdated>2021-08-31</lastupdated>
-		<name>Coloring Games</name>
-		<summary></summary>
-		<icon>com.rvappstudios.kids.coloring.book.color.painting.37.png</icon>
-		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
-		<license>Unknown</license>
-		<web></web>
-		<source></source>
-		<tracker></tracker>
-		<marketversion></marketversion>
-		<marketvercode>37</marketvercode>
-		<package>
-			<version>1.1.6</version>
-			<versioncode>37</versioncode>
-			<apkname>4_5865977229485280020.apk.apk</apkname>
-			<hash type="sha256">36b97e022deaf3145f2989578cafba93e7e675074c49298cc889fb63f0525bce</hash>
-			<size>39354803</size>
-			<sdkver>19</sdkver>
-			<targetSdkVersion>30</targetSdkVersion>
-			<added>2021-08-31</added>
-			<sig>11b5f66de298ca6d39f678fcfb763cd2</sig>
-			<permissions>ACCESS_NETWORK_STATE,FOREGROUND_SERVICE,INTERNET</permissions>
-			<nativecode>arm64-v8a</nativecode>
-		</package>
-	</application>
-	<application id="com.blu.cups">
-		<id>com.blu.cups</id>
-		<added>2021-08-30</added>
-		<lastupdated>2021-08-31</lastupdated>
-		<name>Cups</name>
-		<summary></summary>
-		<icon>com.blu.cups.40097.png</icon>
-		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
-		<license>Unknown</license>
-		<web></web>
-		<source></source>
-		<tracker></tracker>
-		<marketversion></marketversion>
-		<marketvercode>40097</marketvercode>
-		<package>
-			<version>1.11.8</version>
-			<versioncode>40097</versioncode>
-			<apkname>4_5865977229485280022.apk.apk</apkname>
-			<hash type="sha256">ae66f69cb1c37ced51eed2846c1cb677222432c2873264206ae1ce27ca7c8e0e</hash>
-			<size>36283553</size>
-			<sdkver>21</sdkver>
-			<targetSdkVersion>29</targetSdkVersion>
-			<added>2021-08-31</added>
-			<sig>3164092852346ee996e14f33a6db24ef</sig>
-			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,FOREGROUND_SERVICE,INTERNET,READ_EXTERNAL_STORAGE,READ_PHONE_STATE,RECEIVE_BOOT_COMPLETED,USE_FULL_SCREEN_INTENT,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.vending.BILLING,com.google.android.c2dm.permission.RECEIVE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE</permissions>
-			<uses-permission maxSdkVersion="18" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
-			<nativecode>arm64-v8a,armeabi-v7a,x86_64</nativecode>
-		</package>
-	</application>
-	<application id="com.sinyee.babybus.selfcare">
-		<id>com.sinyee.babybus.selfcare</id>
-		<added>2021-08-30</added>
-		<lastupdated>2021-08-31</lastupdated>
-		<name>Daily Habits</name>
-		<summary></summary>
-		<icon>com.sinyee.babybus.selfcare.8470000.png</icon>
-		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
-		<license>Unknown</license>
-		<web></web>
-		<source></source>
-		<tracker></tracker>
-		<marketversion></marketversion>
-		<marketvercode>8470000</marketvercode>
-		<package>
-			<version>8.47.00.00</version>
-			<versioncode>8470000</versioncode>
-			<apkname>4_5865977229485280018.apk.apk</apkname>
-			<hash type="sha256">40f12c94cb411defaf8ce151c044d1cad27d686eef0b7c583c15a561a29aaa60</hash>
-			<size>71976396</size>
-			<sdkver>17</sdkver>
-			<targetSdkVersion>29</targetSdkVersion>
-			<added>2021-08-31</added>
-			<sig>ebdec8bddd16785d6996ad1e57ed84a8</sig>
-			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,FOREGROUND_SERVICE,INTERNET,WAKE_LOCK,com.google.android.c2dm.permission.RECEIVE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE</permissions>
-			<nativecode>arm64-v8a</nativecode>
-		</package>
-	</application>
-	<application id="com.easybrain.find.the.difference">
-		<id>com.easybrain.find.the.difference</id>
-		<added>2021-08-30</added>
-		<lastupdated>2021-08-31</lastupdated>
-		<name>Differences</name>
-		<summary></summary>
-		<icon>com.easybrain.find.the.difference.1020102.png</icon>
-		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
-		<license>Unknown</license>
-		<web></web>
-		<source></source>
-		<tracker></tracker>
-		<marketversion></marketversion>
-		<marketvercode>1020102</marketvercode>
-		<package>
-			<version>1.2.1</version>
-			<versioncode>1020102</versioncode>
-			<apkname>com.easybrain.find.the.difference_1020102_apps.evozi.com.apk</apkname>
-			<hash type="sha256">bb0b2bc3bfdd5f708495b772338c0cfa36b45c2631475dad3079ab26836618e9</hash>
-			<size>77222584</size>
-			<sdkver>21</sdkver>
-			<targetSdkVersion>30</targetSdkVersion>
-			<added>2021-08-31</added>
-			<sig>be6ff68cd529e86b49163517713aa157</sig>
-			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,FOREGROUND_SERVICE,INTERNET,READ_EXTERNAL_STORAGE,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.vending.BILLING,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE</permissions>
-			<uses-permission maxSdkVersion="18" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
-			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
-		</package>
-	</application>
-	<application id="com.amayasoft.dinosaur.games.little.kids.toddlers">
-		<id>com.amayasoft.dinosaur.games.little.kids.toddlers</id>
-		<added>2021-08-30</added>
-		<lastupdated>2021-08-31</lastupdated>
-		<name>Dino Island</name>
-		<summary></summary>
-		<icon>com.amayasoft.dinosaur.games.little.kids.toddlers.12.png</icon>
-		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
-		<license>Unknown</license>
-		<web></web>
-		<source></source>
-		<tracker></tracker>
-		<marketversion></marketversion>
-		<marketvercode>12</marketvercode>
-		<package>
-			<version>1.5.2</version>
-			<versioncode>12</versioncode>
-			<apkname>com.amayasoft.dinosaur.games.little.kids.toddlers_12_apps.evozi.com.apk</apkname>
-			<hash type="sha256">5234dabcd4c47288909d1c0f7cca3b4f8ea100ab6331dbf68eeb4fd6c2e5b7c9</hash>
-			<size>94929901</size>
+			<version>2.4.8</version>
+			<versioncode>98</versioncode>
+			<apkname>4_5865977229485280076.apk.apk</apkname>
+			<hash type="sha256">5c1776511fbbc2b5791feee4fb855bc1cd51d880a58174b5fb895de50e7d509b</hash>
+			<size>30120479</size>
 			<sdkver>16</sdkver>
-			<targetSdkVersion>27</targetSdkVersion>
-			<added>2021-08-31</added>
-			<sig>deb5a233c6cf53a2e67058b6941dfaff</sig>
-			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,INTERNET,READ_EXTERNAL_STORAGE,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.vending.BILLING</permissions>
-			<nativecode>armeabi-v7a,x86</nativecode>
-		</package>
-	</application>
-	<application id="com.mtlvvwgmxp.slidehoops">
-		<id>com.mtlvvwgmxp.slidehoops</id>
-		<added>2021-08-30</added>
-		<lastupdated>2021-08-31</lastupdated>
-		<name>Slide Hoops</name>
-		<summary></summary>
-		<icon>com.mtlvvwgmxp.slidehoops.3501.png</icon>
-		<desc>&lt;p&gt;No description available&lt;/p&gt;</desc>
-		<license>Unknown</license>
-		<web></web>
-		<source></source>
-		<tracker></tracker>
-		<marketversion></marketversion>
-		<marketvercode>3501</marketvercode>
-		<package>
-			<version>0.35.1</version>
-			<versioncode>3501</versioncode>
-			<apkname>4_5865977229485280023.apk.apk</apkname>
-			<hash type="sha256">a6d7e16ff6a4b96f51eb75b68de5d7a2be347528aaaf1763f021bad0cf83744d</hash>
-			<size>61313354</size>
-			<sdkver>22</sdkver>
 			<targetSdkVersion>29</targetSdkVersion>
 			<added>2021-08-31</added>
-			<sig>6e496b53b59c8ac943eed2fdff5689e6</sig>
-			<permissions>ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,INTERNET,READ_EXTERNAL_STORAGE,RECEIVE_BOOT_COMPLETED,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.vending.BILLING,com.google.android.c2dm.permission.RECEIVE,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE,com.mtlvvwgmxp.slidehoops.permission.C2D_MESSAGE</permissions>
-			<uses-permission maxSdkVersion="18" name="android.permission.READ_EXTERNAL_STORAGE"/>
-			<uses-permission maxSdkVersion="18" name="android.permission.WRITE_EXTERNAL_STORAGE"/>
-			<nativecode>arm64-v8a,armeabi-v7a</nativecode>
+			<sig>d5d6da6a4aa042ae306ee8f213f10e88</sig>
+			<permissions>ACCESS_COARSE_LOCATION,ACCESS_FINE_LOCATION,ACCESS_NETWORK_STATE,ACCESS_WIFI_STATE,GET_TASKS,INTERNET,READ_EXTERNAL_STORAGE,READ_LOGS,VIBRATE,WAKE_LOCK,WRITE_EXTERNAL_STORAGE,com.android.launcher.permission.INSTALL_SHORTCUT,com.android.launcher.permission.READ_SETTINGS,com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE</permissions>
+			<nativecode>arm64-v8a,armeabi</nativecode>
 		</package>
 	</application>
 </fdroid>

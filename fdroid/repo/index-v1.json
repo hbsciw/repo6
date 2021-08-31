@@ -1,6 +1,6 @@
 {
   "repo": {
-    "timestamp": 1630433857000,
+    "timestamp": 1630435225000,
     "version": 21,
     "name": "\u06a9\u0627\u0631\u062f\u0631\u0645\u0627\u0646\u06cc\u06f6",
     "icon": "default-repo-icon.png",
@@ -16,197 +16,37 @@
   },
   "apps": [
     {
-      "suggestedVersionCode": "17",
+      "suggestedVersionCode": "98",
       "license": "Unknown",
-      "name": "Color Hoop Stack",
-      "added": 1630354703000,
-      "icon": "color.hoop.stack.sort.puzzle.17.png",
-      "packageName": "color.hoop.stack.sort.puzzle",
-      "lastUpdated": 1630372468000
-    },
-    {
-      "suggestedVersionCode": "37",
-      "license": "Unknown",
-      "name": "Coloring Games",
-      "added": 1630354715000,
-      "icon": "com.rvappstudios.kids.coloring.book.color.painting.37.png",
-      "packageName": "com.rvappstudios.kids.coloring.book.color.painting",
-      "lastUpdated": 1630372465000
-    },
-    {
-      "suggestedVersionCode": "40097",
-      "license": "Unknown",
-      "name": "Cups",
-      "added": 1630354709000,
-      "icon": "com.blu.cups.40097.png",
-      "packageName": "com.blu.cups",
-      "lastUpdated": 1630372465000
-    },
-    {
-      "suggestedVersionCode": "8470000",
-      "license": "Unknown",
-      "name": "Daily Habits",
-      "added": 1630354706000,
-      "icon": "com.sinyee.babybus.selfcare.8470000.png",
-      "packageName": "com.sinyee.babybus.selfcare",
-      "lastUpdated": 1630372464000
-    },
-    {
-      "suggestedVersionCode": "1020102",
-      "license": "Unknown",
-      "name": "Differences",
-      "added": 1630354701000,
-      "icon": "com.easybrain.find.the.difference.1020102.png",
-      "packageName": "com.easybrain.find.the.difference",
-      "lastUpdated": 1630372472000
-    },
-    {
-      "suggestedVersionCode": "12",
-      "license": "Unknown",
-      "name": "Dino Island",
-      "added": 1630354717000,
-      "icon": "com.amayasoft.dinosaur.games.little.kids.toddlers.12.png",
-      "packageName": "com.amayasoft.dinosaur.games.little.kids.toddlers",
-      "lastUpdated": 1630372469000
-    },
-    {
-      "suggestedVersionCode": "3501",
-      "license": "Unknown",
-      "name": "Slide Hoops",
-      "added": 1630354713000,
-      "icon": "com.mtlvvwgmxp.slidehoops.3501.png",
-      "packageName": "com.mtlvvwgmxp.slidehoops",
-      "lastUpdated": 1630372467000
+      "name": "Color Rings Puzzle",
+      "added": 1630434617000,
+      "icon": "com.puzzle.rings.98.png",
+      "packageName": "com.puzzle.rings",
+      "lastUpdated": 1630435225000,
+      "localized": {
+        "en": {
+          "description": "\u0634\u0646\u0627\u062e\u062a \u0631\u0646\u06af\u060c\u0634\u0646\u0627\u062e\u062a \u0645\u0641\u0647\u0648\u0645 \u0647\u0645 \u0631\u0646\u06af\u06cc\u060c\u0628\u0647\u0628\u0648\u062f \u062a\u0648\u062c\u0647 \u060c\u062a\u0642\u0648\u06cc\u062a \u0645\u0647\u0627\u0631\u062a problem solving",
+          "summary": "\u0634\u0646\u0627\u062e\u062a \u0631\u0646\u06af\u060c\u0634\u0646\u0627\u062e\u062a \u0645\u0641\u0647\u0648\u0645 \u0647\u0645 \u0631\u0646\u06af\u06cc\u060c\u0628\u0647\u0628\u0648\u062f \u062a\u0648\u062c\u0647 \u060c\u062a\u0642\u0648\u06cc\u062a \u0645\u0647\u0627\u0631\u062a problem solving"
+        }
+      }
     }
   ],
   "packages": {
-    "color.hoop.stack.sort.puzzle": [
+    "com.puzzle.rings": [
       {
-        "added": 1630372468000,
-        "apkName": "color.hoop.stack.sort.puzzle_17_apps.evozi.com.apk",
-        "hash": "64196ad9b4d621faeaa39c810d2bb95aaa86b7706287285aebb406015f01bbb4",
-        "hashType": "sha256",
-        "minSdkVersion": 19,
-        "nativecode": [
-          "arm64-v8a"
-        ],
-        "packageName": "color.hoop.stack.sort.puzzle",
-        "sig": "81f29e09f36e3f07eff804d4eb3ccc6d",
-        "signer": "0c3155b82a0533d56909ef42f69fb54ca976c3bb01be3333e9322e53deb56e2b",
-        "size": 29941894,
-        "targetSdkVersion": 29,
-        "uses-permission": [
-          [
-            "android.permission.ACCESS_NETWORK_STATE",
-            null
-          ],
-          [
-            "android.permission.INTERNET",
-            null
-          ],
-          [
-            "android.permission.ACCESS_WIFI_STATE",
-            null
-          ],
-          [
-            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
-            null
-          ],
-          [
-            "android.permission.CHANGE_WIFI_MULTICAST_STATE",
-            null
-          ],
-          [
-            "android.permission.VIBRATE",
-            null
-          ],
-          [
-            "android.permission.WAKE_LOCK",
-            null
-          ],
-          [
-            "com.android.vending.BILLING",
-            null
-          ],
-          [
-            "android.permission.RECEIVE_BOOT_COMPLETED",
-            null
-          ]
-        ],
-        "versionCode": 17,
-        "versionName": "1.1.4"
-      }
-    ],
-    "com.amayasoft.dinosaur.games.little.kids.toddlers": [
-      {
-        "added": 1630372469000,
-        "apkName": "com.amayasoft.dinosaur.games.little.kids.toddlers_12_apps.evozi.com.apk",
-        "hash": "5234dabcd4c47288909d1c0f7cca3b4f8ea100ab6331dbf68eeb4fd6c2e5b7c9",
+        "added": 1630435225000,
+        "apkName": "4_5865977229485280076.apk.apk",
+        "hash": "5c1776511fbbc2b5791feee4fb855bc1cd51d880a58174b5fb895de50e7d509b",
         "hashType": "sha256",
         "minSdkVersion": 16,
         "nativecode": [
-          "armeabi-v7a",
-          "x86"
-        ],
-        "packageName": "com.amayasoft.dinosaur.games.little.kids.toddlers",
-        "sig": "deb5a233c6cf53a2e67058b6941dfaff",
-        "signer": "f81a0ab1fcbf73469bb856e25d85006df1fe973b1b5f3a8c8cc2d07365aa4212",
-        "size": 94929901,
-        "targetSdkVersion": 27,
-        "uses-permission": [
-          [
-            "android.permission.INTERNET",
-            null
-          ],
-          [
-            "android.permission.WRITE_EXTERNAL_STORAGE",
-            null
-          ],
-          [
-            "android.permission.ACCESS_NETWORK_STATE",
-            null
-          ],
-          [
-            "android.permission.ACCESS_WIFI_STATE",
-            null
-          ],
-          [
-            "android.permission.WAKE_LOCK",
-            null
-          ],
-          [
-            "android.permission.VIBRATE",
-            null
-          ],
-          [
-            "com.android.vending.BILLING",
-            null
-          ],
-          [
-            "android.permission.READ_EXTERNAL_STORAGE",
-            null
-          ]
-        ],
-        "versionCode": 12,
-        "versionName": "1.5.2"
-      }
-    ],
-    "com.blu.cups": [
-      {
-        "added": 1630372465000,
-        "apkName": "4_5865977229485280022.apk.apk",
-        "hash": "ae66f69cb1c37ced51eed2846c1cb677222432c2873264206ae1ce27ca7c8e0e",
-        "hashType": "sha256",
-        "minSdkVersion": 21,
-        "nativecode": [
           "arm64-v8a",
-          "armeabi-v7a",
-          "x86_64"
+          "armeabi"
         ],
-        "packageName": "com.blu.cups",
-        "sig": "3164092852346ee996e14f33a6db24ef",
-        "signer": "a7b2d9ce43319fffc36f65c7917994c54e1fe8a14fa82618600fe5298989a41a",
-        "size": 36283553,
+        "packageName": "com.puzzle.rings",
+        "sig": "d5d6da6a4aa042ae306ee8f213f10e88",
+        "signer": "54a7a8e6fff761c2a64304543fe17189f5e68183cf2b6b1a697aa70b59a3ffff",
+        "size": 30120479,
         "targetSdkVersion": 29,
         "uses-permission": [
           [
@@ -214,23 +54,15 @@
             null
           ],
           [
-            "android.permission.ACCESS_NETWORK_STATE",
-            null
-          ],
-          [
-            "android.permission.READ_PHONE_STATE",
-            null
-          ],
-          [
             "android.permission.ACCESS_WIFI_STATE",
             null
           ],
           [
-            "android.permission.WAKE_LOCK",
+            "android.permission.ACCESS_NETWORK_STATE",
             null
           ],
           [
-            "android.permission.RECEIVE_BOOT_COMPLETED",
+            "android.permission.WRITE_EXTERNAL_STORAGE",
             null
           ],
           [
@@ -238,233 +70,27 @@
             null
           ],
           [
-            "android.permission.USE_FULL_SCREEN_INTENT",
+            "android.permission.GET_TASKS",
             null
           ],
           [
-            "android.permission.WRITE_EXTERNAL_STORAGE",
-            18
-          ],
-          [
-            "android.permission.READ_EXTERNAL_STORAGE",
+            "com.android.launcher.permission.INSTALL_SHORTCUT",
             null
           ],
           [
-            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
+            "com.android.launcher.permission.READ_SETTINGS",
             null
           ],
           [
-            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.ACCESS_COARSE_LOCATION",
             null
           ],
           [
-            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.ACCESS_FINE_LOCATION",
             null
           ],
           [
-            "com.android.vending.BILLING",
-            null
-          ]
-        ],
-        "versionCode": 40097,
-        "versionName": "1.11.8"
-      }
-    ],
-    "com.easybrain.find.the.difference": [
-      {
-        "added": 1630372472000,
-        "apkName": "com.easybrain.find.the.difference_1020102_apps.evozi.com.apk",
-        "hash": "bb0b2bc3bfdd5f708495b772338c0cfa36b45c2631475dad3079ab26836618e9",
-        "hashType": "sha256",
-        "minSdkVersion": 21,
-        "nativecode": [
-          "arm64-v8a",
-          "armeabi-v7a"
-        ],
-        "packageName": "com.easybrain.find.the.difference",
-        "sig": "be6ff68cd529e86b49163517713aa157",
-        "signer": "aa338658d39a8d236f9f1ecb3134846c74003942dcf23ec7851c83d6fac4117d",
-        "size": 77222584,
-        "targetSdkVersion": 30,
-        "uses-permission": [
-          [
-            "android.permission.INTERNET",
-            null
-          ],
-          [
-            "android.permission.ACCESS_NETWORK_STATE",
-            null
-          ],
-          [
-            "android.permission.VIBRATE",
-            null
-          ],
-          [
-            "android.permission.ACCESS_WIFI_STATE",
-            null
-          ],
-          [
-            "android.permission.WRITE_EXTERNAL_STORAGE",
-            18
-          ],
-          [
-            "android.permission.READ_EXTERNAL_STORAGE",
-            null
-          ],
-          [
-            "com.android.vending.BILLING",
-            null
-          ],
-          [
-            "android.permission.WAKE_LOCK",
-            null
-          ],
-          [
-            "android.permission.FOREGROUND_SERVICE",
-            null
-          ],
-          [
-            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
-            null
-          ]
-        ],
-        "versionCode": 1020102,
-        "versionName": "1.2.1"
-      }
-    ],
-    "com.mtlvvwgmxp.slidehoops": [
-      {
-        "added": 1630372467000,
-        "apkName": "4_5865977229485280023.apk.apk",
-        "hash": "a6d7e16ff6a4b96f51eb75b68de5d7a2be347528aaaf1763f021bad0cf83744d",
-        "hashType": "sha256",
-        "minSdkVersion": 22,
-        "nativecode": [
-          "arm64-v8a",
-          "armeabi-v7a"
-        ],
-        "packageName": "com.mtlvvwgmxp.slidehoops",
-        "sig": "6e496b53b59c8ac943eed2fdff5689e6",
-        "signer": "0f9d47c58350c2dced509d1082648a72914b0f183f52dbf86e102340fd10ed9f",
-        "size": 61313354,
-        "targetSdkVersion": 29,
-        "uses-permission": [
-          [
-            "android.permission.VIBRATE",
-            null
-          ],
-          [
-            "android.permission.INTERNET",
-            null
-          ],
-          [
-            "android.permission.ACCESS_WIFI_STATE",
-            null
-          ],
-          [
-            "android.permission.ACCESS_NETWORK_STATE",
-            null
-          ],
-          [
-            "com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE",
-            null
-          ],
-          [
-            "android.permission.WAKE_LOCK",
-            null
-          ],
-          [
-            "com.google.android.c2dm.permission.RECEIVE",
-            null
-          ],
-          [
-            "android.permission.WRITE_EXTERNAL_STORAGE",
-            18
-          ],
-          [
-            "com.mtlvvwgmxp.slidehoops.permission.C2D_MESSAGE",
-            null
-          ],
-          [
-            "android.permission.RECEIVE_BOOT_COMPLETED",
-            null
-          ],
-          [
-            "com.android.vending.BILLING",
-            null
-          ],
-          [
-            "android.permission.READ_EXTERNAL_STORAGE",
-            18
-          ]
-        ],
-        "versionCode": 3501,
-        "versionName": "0.35.1"
-      }
-    ],
-    "com.rvappstudios.kids.coloring.book.color.painting": [
-      {
-        "added": 1630372465000,
-        "apkName": "4_5865977229485280020.apk.apk",
-        "hash": "36b97e022deaf3145f2989578cafba93e7e675074c49298cc889fb63f0525bce",
-        "hashType": "sha256",
-        "minSdkVersion": 19,
-        "nativecode": [
-          "arm64-v8a"
-        ],
-        "packageName": "com.rvappstudios.kids.coloring.book.color.painting",
-        "sig": "11b5f66de298ca6d39f678fcfb763cd2",
-        "signer": "e210f5d117705dbcdd442715ed1a259e4fc69d6cdb4649a2804be57cb654572b",
-        "size": 39354803,
-        "targetSdkVersion": 30,
-        "uses-permission": [
-          [
-            "android.permission.INTERNET",
-            null
-          ],
-          [
-            "android.permission.ACCESS_NETWORK_STATE",
-            null
-          ],
-          [
-            "android.permission.FOREGROUND_SERVICE",
-            null
-          ]
-        ],
-        "versionCode": 37,
-        "versionName": "1.1.6"
-      }
-    ],
-    "com.sinyee.babybus.selfcare": [
-      {
-        "added": 1630372464000,
-        "apkName": "4_5865977229485280018.apk.apk",
-        "hash": "40f12c94cb411defaf8ce151c044d1cad27d686eef0b7c583c15a561a29aaa60",
-        "hashType": "sha256",
-        "minSdkVersion": 17,
-        "nativecode": [
-          "arm64-v8a"
-        ],
-        "packageName": "com.sinyee.babybus.selfcare",
-        "sig": "ebdec8bddd16785d6996ad1e57ed84a8",
-        "signer": "4b31a33e2bb7646d17cf9b991f8fddc4f634e4ad00b956150b77fb5fbb26b596",
-        "size": 71976396,
-        "targetSdkVersion": 29,
-        "uses-permission": [
-          [
-            "android.permission.ACCESS_NETWORK_STATE",
-            null
-          ],
-          [
-            "android.permission.INTERNET",
-            null
-          ],
-          [
-            "android.permission.ACCESS_WIFI_STATE",
-            null
-          ],
-          [
-            "android.permission.FOREGROUND_SERVICE",
+            "android.permission.READ_LOGS",
             null
           ],
           [
@@ -476,12 +102,12 @@
             null
           ],
           [
-            "com.google.android.c2dm.permission.RECEIVE",
+            "android.permission.READ_EXTERNAL_STORAGE",
             null
           ]
         ],
-        "versionCode": 8470000,
-        "versionName": "8.47.00.00"
+        "versionCode": 98,
+        "versionName": "2.4.8"
       }
     ]
   }
